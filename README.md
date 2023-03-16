@@ -11,7 +11,7 @@ Semester : 2022 Fall
 ![](https://i.imgur.com/QiixugF.png)
 
 ## HW2 : Hierarchical Transforms
-![](https://i.imgur.com/4IwcdRL.png)
+![](https://i.imgur.com/xTSSoxp.png)
 
 ## HW3 : 3D Mesh
 ![](https://i.imgur.com/S4NUdmz.png)
