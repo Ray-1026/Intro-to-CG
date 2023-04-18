@@ -1,4 +1,4 @@
-# NYCU-intro-to-CG
+# Intro-to-CG
 
 Instructor : 王昱舜
 
